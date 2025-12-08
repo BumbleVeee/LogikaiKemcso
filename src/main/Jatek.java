@@ -275,10 +275,13 @@ public class Jatek extends javax.swing.JFrame {
     private void jbttn4_4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jbttn4_4ActionPerformed
         if(aktiv.equals("k")){
             jbttn4_4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/kepek/kek.png")));
+            
         }else if(aktiv.equals("z")){
             jbttn4_4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/kepek/zold.png")));
+            
         }else if(aktiv.equals("p")){
             jbttn4_4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/kepek/piros.png")));
+            
         }
         aktiv = "";
         gomb.setIcon(null);
