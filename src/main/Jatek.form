@@ -102,36 +102,36 @@
                       <Group type="103" groupAlignment="0" attributes="0">
                           <Group type="102" attributes="0">
                               <Group type="103" groupAlignment="0" max="-2" attributes="0">
-                                  <Component id="jButton3" linkSize="1" max="32767" attributes="0"/>
-                                  <Component id="jButton4" linkSize="1" max="32767" attributes="0"/>
-                                  <Component id="jButton5" linkSize="1" max="32767" attributes="0"/>
-                                  <Component id="jButton2" linkSize="1" alignment="0" pref="0" max="32767" attributes="0"/>
+                                  <Component id="jbttn1_2" linkSize="1" max="32767" attributes="0"/>
+                                  <Component id="jbttn1_3" linkSize="1" max="32767" attributes="0"/>
+                                  <Component id="jbttn1_4" linkSize="1" max="32767" attributes="0"/>
+                                  <Component id="jbttn1_" linkSize="1" alignment="0" pref="0" max="32767" attributes="0"/>
                               </Group>
                               <EmptySpace max="-2" attributes="0"/>
                               <Group type="103" groupAlignment="0" max="-2" attributes="0">
-                                  <Component id="jButton6" linkSize="1" alignment="0" pref="0" max="32767" attributes="0"/>
-                                  <Component id="jButton7" linkSize="1" max="32767" attributes="0"/>
-                                  <Component id="jButton8" linkSize="1" max="32767" attributes="0"/>
-                                  <Component id="jButton9" linkSize="1" max="32767" attributes="0"/>
+                                  <Component id="jbttn2_" linkSize="1" alignment="0" pref="0" max="32767" attributes="0"/>
+                                  <Component id="jbttn2_2" linkSize="1" max="32767" attributes="0"/>
+                                  <Component id="jbttn2_3" linkSize="1" max="32767" attributes="0"/>
+                                  <Component id="jbttn2_4" linkSize="1" max="32767" attributes="0"/>
                               </Group>
                               <EmptySpace max="-2" attributes="0"/>
                               <Group type="103" groupAlignment="0" max="-2" attributes="0">
-                                  <Component id="jButton10" linkSize="1" max="32767" attributes="0"/>
-                                  <Component id="jButton11" linkSize="1" max="32767" attributes="0"/>
-                                  <Component id="jButton13" linkSize="1" max="32767" attributes="0"/>
-                                  <Component id="jButton14" linkSize="1" alignment="0" pref="0" max="32767" attributes="0"/>
+                                  <Component id="jbttn3_2" linkSize="1" max="32767" attributes="0"/>
+                                  <Component id="jbttn3_3" linkSize="1" max="32767" attributes="0"/>
+                                  <Component id="jbttn3_4" linkSize="1" max="32767" attributes="0"/>
+                                  <Component id="jbttn3_" linkSize="1" alignment="0" pref="0" max="32767" attributes="0"/>
                               </Group>
                               <EmptySpace max="-2" attributes="0"/>
                               <Group type="103" groupAlignment="0" attributes="0">
-                                  <Component id="jButton12" linkSize="1" min="-2" pref="56" max="-2" attributes="0"/>
-                                  <Component id="jButton15" linkSize="1" min="-2" pref="56" max="-2" attributes="0"/>
-                                  <Component id="jButton16" linkSize="1" min="-2" pref="56" max="-2" attributes="0"/>
-                                  <Component id="jButton17" linkSize="1" min="-2" pref="56" max="-2" attributes="0"/>
+                                  <Component id="jbttn4_" linkSize="1" min="-2" pref="56" max="-2" attributes="0"/>
+                                  <Component id="jbttn4_2" linkSize="1" min="-2" pref="56" max="-2" attributes="0"/>
+                                  <Component id="jbttn4_3" linkSize="1" min="-2" pref="56" max="-2" attributes="0"/>
+                                  <Component id="jbttn4_4" linkSize="1" min="-2" pref="56" max="-2" attributes="0"/>
                               </Group>
                           </Group>
-                          <Component id="jLabel1" alignment="0" min="-2" max="-2" attributes="0"/>
-                          <Component id="jLabel2" alignment="0" min="-2" max="-2" attributes="0"/>
-                          <Component id="jLabel3" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="jlblLeiras" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="jlblValasztas" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="jlblLepesszam" alignment="0" min="-2" max="-2" attributes="0"/>
                       </Group>
                       <EmptySpace max="32767" attributes="0"/>
                   </Group>
@@ -141,161 +141,161 @@
               <Group type="103" groupAlignment="0" attributes="0">
                   <Group type="102" alignment="0" attributes="0">
                       <EmptySpace max="-2" attributes="0"/>
-                      <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                      <Component id="jlblLeiras" min="-2" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="0" attributes="0">
                           <Group type="102" attributes="0">
-                              <Component id="jButton2" linkSize="2" min="-2" pref="60" max="-2" attributes="0"/>
+                              <Component id="jbttn1_" linkSize="2" min="-2" pref="60" max="-2" attributes="0"/>
                               <EmptySpace max="-2" attributes="0"/>
-                              <Component id="jButton3" linkSize="2" min="-2" max="-2" attributes="0"/>
+                              <Component id="jbttn1_2" linkSize="2" min="-2" max="-2" attributes="0"/>
                               <EmptySpace max="-2" attributes="0"/>
-                              <Component id="jButton4" linkSize="2" min="-2" max="-2" attributes="0"/>
+                              <Component id="jbttn1_3" linkSize="2" min="-2" max="-2" attributes="0"/>
                               <EmptySpace max="-2" attributes="0"/>
-                              <Component id="jButton5" linkSize="2" min="-2" max="-2" attributes="0"/>
+                              <Component id="jbttn1_4" linkSize="2" min="-2" max="-2" attributes="0"/>
                           </Group>
                           <Group type="102" attributes="0">
-                              <Component id="jButton12" linkSize="2" min="-2" pref="60" max="-2" attributes="0"/>
+                              <Component id="jbttn4_" linkSize="2" min="-2" pref="60" max="-2" attributes="0"/>
                               <EmptySpace max="-2" attributes="0"/>
-                              <Component id="jButton15" linkSize="2" min="-2" pref="60" max="-2" attributes="0"/>
+                              <Component id="jbttn4_2" linkSize="2" min="-2" pref="60" max="-2" attributes="0"/>
                               <EmptySpace max="-2" attributes="0"/>
-                              <Component id="jButton16" linkSize="2" min="-2" pref="60" max="-2" attributes="0"/>
+                              <Component id="jbttn4_3" linkSize="2" min="-2" pref="60" max="-2" attributes="0"/>
                               <EmptySpace max="-2" attributes="0"/>
-                              <Component id="jButton17" linkSize="2" min="-2" pref="60" max="-2" attributes="0"/>
+                              <Component id="jbttn4_4" linkSize="2" min="-2" pref="60" max="-2" attributes="0"/>
                           </Group>
                           <Group type="102" alignment="0" attributes="0">
                               <Group type="103" groupAlignment="0" attributes="0">
-                                  <Component id="jButton6" linkSize="2" alignment="0" min="-2" pref="60" max="-2" attributes="0"/>
-                                  <Component id="jButton14" linkSize="2" alignment="0" min="-2" pref="60" max="-2" attributes="0"/>
+                                  <Component id="jbttn2_" linkSize="2" alignment="0" min="-2" pref="60" max="-2" attributes="0"/>
+                                  <Component id="jbttn3_" linkSize="2" alignment="0" min="-2" pref="60" max="-2" attributes="0"/>
                               </Group>
                               <EmptySpace max="-2" attributes="0"/>
                               <Group type="103" groupAlignment="0" attributes="0">
                                   <Group type="102" attributes="0">
-                                      <Component id="jButton10" linkSize="2" min="-2" max="-2" attributes="0"/>
+                                      <Component id="jbttn3_2" linkSize="2" min="-2" max="-2" attributes="0"/>
                                       <EmptySpace max="-2" attributes="0"/>
-                                      <Component id="jButton11" linkSize="2" min="-2" max="-2" attributes="0"/>
+                                      <Component id="jbttn3_3" linkSize="2" min="-2" max="-2" attributes="0"/>
                                       <EmptySpace max="-2" attributes="0"/>
-                                      <Component id="jButton13" linkSize="2" min="-2" max="-2" attributes="0"/>
+                                      <Component id="jbttn3_4" linkSize="2" min="-2" max="-2" attributes="0"/>
                                   </Group>
                                   <Group type="102" attributes="0">
-                                      <Component id="jButton7" linkSize="2" min="-2" max="-2" attributes="0"/>
+                                      <Component id="jbttn2_2" linkSize="2" min="-2" max="-2" attributes="0"/>
                                       <EmptySpace max="-2" attributes="0"/>
-                                      <Component id="jButton8" linkSize="2" min="-2" max="-2" attributes="0"/>
+                                      <Component id="jbttn2_3" linkSize="2" min="-2" max="-2" attributes="0"/>
                                       <EmptySpace max="-2" attributes="0"/>
-                                      <Component id="jButton9" linkSize="2" min="-2" max="-2" attributes="0"/>
+                                      <Component id="jbttn2_4" linkSize="2" min="-2" max="-2" attributes="0"/>
                                   </Group>
                               </Group>
                           </Group>
                       </Group>
                       <EmptySpace type="separate" max="-2" attributes="0"/>
-                      <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                      <Component id="jlblValasztas" min="-2" max="-2" attributes="0"/>
                       <EmptySpace type="separate" max="-2" attributes="0"/>
-                      <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jlblLepesszam" min="-2" max="-2" attributes="0"/>
                       <EmptySpace pref="10" max="32767" attributes="0"/>
                   </Group>
               </Group>
             </DimensionLayout>
           </Layout>
           <SubComponents>
-            <Component class="javax.swing.JLabel" name="jLabel1">
+            <Component class="javax.swing.JLabel" name="jlblLeiras">
               <Properties>
                 <Property name="text" type="java.lang.String" value="V&#xe1;laszd ki az egyik oszlop legfels&#x151; elem&#xe9;t!"/>
               </Properties>
             </Component>
-            <Component class="javax.swing.JButton" name="jButton2">
+            <Component class="javax.swing.JButton" name="jbttn1_">
             </Component>
-            <Component class="javax.swing.JButton" name="jButton3">
+            <Component class="javax.swing.JButton" name="jbttn1_2">
               <Properties>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
                   <Image iconType="3" name="/kepek/kek.png"/>
                 </Property>
               </Properties>
               <Events>
-                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton3ActionPerformed"/>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jbttn1_2ActionPerformed"/>
               </Events>
             </Component>
-            <Component class="javax.swing.JButton" name="jButton4">
+            <Component class="javax.swing.JButton" name="jbttn1_3">
               <Properties>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
                   <Image iconType="3" name="/kepek/piros.png"/>
                 </Property>
               </Properties>
             </Component>
-            <Component class="javax.swing.JButton" name="jButton5">
+            <Component class="javax.swing.JButton" name="jbttn1_4">
               <Properties>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
                   <Image iconType="3" name="/kepek/zold.png"/>
                 </Property>
               </Properties>
             </Component>
-            <Component class="javax.swing.JButton" name="jButton6">
+            <Component class="javax.swing.JButton" name="jbttn2_">
             </Component>
-            <Component class="javax.swing.JButton" name="jButton7">
+            <Component class="javax.swing.JButton" name="jbttn2_2">
               <Properties>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
                   <Image iconType="3" name="/kepek/zold.png"/>
                 </Property>
               </Properties>
               <Events>
-                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton7ActionPerformed"/>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jbttn2_2ActionPerformed"/>
               </Events>
             </Component>
-            <Component class="javax.swing.JButton" name="jButton8">
+            <Component class="javax.swing.JButton" name="jbttn2_3">
               <Properties>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
                   <Image iconType="3" name="/kepek/piros.png"/>
                 </Property>
               </Properties>
             </Component>
-            <Component class="javax.swing.JButton" name="jButton9">
+            <Component class="javax.swing.JButton" name="jbttn2_4">
               <Properties>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
                   <Image iconType="3" name="/kepek/zold.png"/>
                 </Property>
               </Properties>
             </Component>
-            <Component class="javax.swing.JButton" name="jButton10">
+            <Component class="javax.swing.JButton" name="jbttn3_2">
               <Properties>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
                   <Image iconType="3" name="/kepek/piros.png"/>
                 </Property>
               </Properties>
               <Events>
-                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton10ActionPerformed"/>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jbttn3_2ActionPerformed"/>
               </Events>
             </Component>
-            <Component class="javax.swing.JButton" name="jButton11">
+            <Component class="javax.swing.JButton" name="jbttn3_3">
               <Properties>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
                   <Image iconType="3" name="/kepek/kek.png"/>
                 </Property>
               </Properties>
             </Component>
-            <Component class="javax.swing.JButton" name="jButton12">
+            <Component class="javax.swing.JButton" name="jbttn4_">
             </Component>
-            <Component class="javax.swing.JButton" name="jButton13">
+            <Component class="javax.swing.JButton" name="jbttn3_4">
               <Properties>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
                   <Image iconType="3" name="/kepek/kek.png"/>
                 </Property>
               </Properties>
             </Component>
-            <Component class="javax.swing.JButton" name="jButton14">
+            <Component class="javax.swing.JButton" name="jbttn3_">
             </Component>
-            <Component class="javax.swing.JButton" name="jButton15">
+            <Component class="javax.swing.JButton" name="jbttn4_2">
             </Component>
-            <Component class="javax.swing.JButton" name="jButton16">
+            <Component class="javax.swing.JButton" name="jbttn4_3">
             </Component>
-            <Component class="javax.swing.JButton" name="jButton17">
+            <Component class="javax.swing.JButton" name="jbttn4_4">
               <Events>
-                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton17ActionPerformed"/>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jbttn4_4ActionPerformed"/>
               </Events>
             </Component>
-            <Component class="javax.swing.JLabel" name="jLabel2">
+            <Component class="javax.swing.JLabel" name="jlblValasztas">
               <Properties>
                 <Property name="text" type="java.lang.String" value="Kiv&#xe1;lasztva: -"/>
               </Properties>
             </Component>
-            <Component class="javax.swing.JLabel" name="jLabel3">
+            <Component class="javax.swing.JLabel" name="jlblLepesszam">
               <Properties>
                 <Property name="text" type="java.lang.String" value="L&#xe9;p&#xe9;sek sz&#xe1;ma: 0"/>
               </Properties>
