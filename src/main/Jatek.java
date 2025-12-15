@@ -379,7 +379,7 @@ public class Jatek extends javax.swing.JFrame {
     }//GEN-LAST:event_jbttn2_3ActionPerformed
 
     private void jbttn3_3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jbttn3_3ActionPerformed
-        aktivGomb = jbttn3_4;
+        aktivGomb = jbttn3_3;
         gombKezelo(aktivGomb);
     }//GEN-LAST:event_jbttn3_3ActionPerformed
 
